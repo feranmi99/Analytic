@@ -1,0 +1,253 @@
+html{
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+.one {
+    border: 1px solid gray;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 0px;
+    border-left: 0px;
+}
+.two {
+    width: 100px;
+    height: 60px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    font-weight: 300;
+
+}
+.two:hover {
+    background-color: darkblue;
+}
+.you {
+    background-color: darkorange;
+    width: 100%;
+    font-size: 17px;
+    font-weight: 900;
+    text-align: left;
+    color: white;
+    padding: 10px;
+    font-family: system-ui,'Segoe UI' 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 800;
+    line-height: 20px;
+    margin-right: 30px;
+    overflow:none;
+}
+a {
+    color: white;
+}
+.mat {
+    width: 50%;
+    padding-left: 80px;
+}
+#one {
+    font-size: 40px;
+    font-weight: 400;
+    width: 90%;
+}
+ img {
+    width: 50%;
+    height: 100%;
+    /* margin: 20px; */
+}
+#two {
+    font-size: 20px;
+    margin-top: 50px;
+    font-weight:100px;
+    width: 90%;
+
+}
+.let {
+    background-color: blue;
+    padding: 0px 0px 80px 80px;
+}
+.done {
+    font-size:xx-large ;
+    color: white;
+    padding-left: 30px;
+    padding-top: 50px;
+}
+.flex {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    gap: 20px;
+    padding: 30px 40px 5px 40px;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+
+
+}
+.l {
+    background-color: white;
+    width: 280px;
+    height: 500px;
+    padding: 20px;
+}
+h3 {
+    color: black;
+    font-size: 30px;
+    font-weight: 800;
+}
+p{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 200;
+    line-height: 30px;
+}
+#jj {
+    width: 70px;
+    height: 80px;
+}
+p {
+    font-size: 16px;
+}
+#we {
+    width: 60px;
+    /* height: 80px; */
+    float: right;
+}
+.ll,.d,.dd,.v,.vv,.l {
+    background-color: white;
+    width: 280px;
+    height: 500px;
+    padding: 20px;
+}
+.font {
+    background-color: white;
+    padding: 50px;
+    margin: 10px 60px 20px 60px;
+    
+}
+.tan {
+    border: 1px solid darkgrey;
+    background-color:whitesmoke;
+    width: 100%;
+    line-height: 10px;
+    height: 240px;
+    margin: 50px 0px 50px 0px;
+    box-shadow: -2px 2px rgb(151, 151, 151) ;
+}
+.ten {
+    width: 200px;
+    padding-right: 30px;
+    height: 230px;
+    text-align: justify;
+    float: left;
+}
+
+
+.hhh,.ggg,.ooo,.iii {
+    width: 300px;
+    height: 200px;
+    background-color:whitesmoke;
+    gap: 20px;
+    border-radius: 5px;
+    box-shadow: -2px 2px lightslategray;
+
+}
+#otilo {
+    background-color: blue;
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    font-weight: 600;
+    font-size: 50px;
+    cursor: pointer;
+    top: 600px;
+    position: absolute;
+
+    
+}
+.koko {
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    margin-left: 150px;
+}
+#node {
+    color: black;
+    font-size: 25px;
+    font-weight:    x-large;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+.dodo {
+    height: 350px;
+    width:100% ;
+   
+}
+
+#dodo {
+    width: 50px;
+    height: 50px;
+}
+.yoyo {
+    margin: 50px;
+    justify-content: space-around;
+    justify-items: center;
+    background-color: whitesmoke;
+    width: 500px;
+    text-align: center;
+    font-weight: 300;
+    font-size: 50px;
+}
+.maga {
+    font-size: 25px;
+    font-weight: 500;
+    display: flex;
+    list-style: none;
+    float: right;
+    text-transform: uppercase;
+}
+.jmk:hover {
+    background-color: lightgray;
+    cursor: pointer;
+}
+.jmk {
+    /* border: 2px solid green; */
+    margin: 30px 20px 30px 20px ;
+    opacity: 0.8;
+}
+#aaa {
+    height: 50px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: -30px;
+    border: 0px;
+    text-transform: uppercase;
+    overflow-x: scroll;
+    width: 200px;
+}
+/* @media screen and (width:425px) {
+   body {
+    display: block;
+    width: 100%;
+   }
+   .hut {
+    display: none;
+   }
+   .flex {
+    display: block;
+    padding-top: 50px;
+    width: 100px;
+    background-color: aqua;
+   }
+}
+* {
+    width: 100%;
+}
+.font{
+    display: block;
+}
+.yoyo {
+    display: block;
+} */
